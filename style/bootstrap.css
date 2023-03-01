@@ -1389,7 +1389,7 @@ h1{
 @media screen 
     and (min-width:280px)
     and (max-width:800px){
-        .third-page-text{
+        .second-page-text, .third-page-text{
             display: flex;
         }
     }
